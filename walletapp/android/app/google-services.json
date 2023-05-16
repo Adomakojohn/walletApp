@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117106036628",
+    "project_id": "fir-wallet-9365f",
+    "storage_bucket": "fir-wallet-9365f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117106036628:android:b861d07200dcad65754981",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117106036628-lngmdip19trv485f0eue9fad5h3i42er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrgIVuBpCoLGCVYeWteOY5hcjAMsNSusw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117106036628-lngmdip19trv485f0eue9fad5h3i42er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
